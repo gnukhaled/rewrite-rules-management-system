@@ -1248,7 +1248,7 @@ format MAIL =
 From: @<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 	$localemail
 To: @<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-	"$mail_addresses{UnifiedWebPlatformTeam}"
+	"$mail_addresses{Khaled}"
 Subject: rewrite rules statistics report.
     
 @*
