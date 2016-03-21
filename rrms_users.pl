@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 ########################################################################
-# Description: Manage users allowed to manipulate EMC rewrite rules.
+# Description: Manage users allowed to manipulate rewrite rules.
 # Parameters : -c <Create>, -d <Delete>, -p <Change Password>, -l <List>
 # Returns    : 0 on Success or 1 on Error.
-# Author     : Khaled Ahmed <khaled.ahmed@emc.com>
+# Author     : Khaled Ahmed <khaled.gnu@gmail.com>
 ########################################################################
 
 use strict;
