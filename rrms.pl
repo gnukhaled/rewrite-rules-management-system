@@ -1,9 +1,9 @@
 #!/usr/bin/perl 
 #############################################################################
-# Description: An engine to manipulate the EMC.COM rewrite requests.
+# Description: An engine to automatically manipulate Apache rewrite rules.
 # Parameters : See the Usage() subroutine
 # Returns    : 0 on Success, 1 on Error.
-# Author     : Khaled Ahmed: khaled.ahmed@emc.com (SDG Team) 
+# Author     : Khaled Ahmed: khaled.gnu@gmail.com
 # License    : GPL <http://www.gnu.org/licenses/gpl.html>
 #############################################################################
 
