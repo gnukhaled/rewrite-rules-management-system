@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 #############################################################################
-# Description: The EMC rewrite rules statistical reporting tool.
+# Description: Rewrite rules statistical reporting tool.
 # Parameters : See the "Usage" subroutine.
 # Returns    : 0 on Success or 1 on Error.
-# Author     : Khaled Ahmed: khaled.ahmed@emc.com (SDG Team)
+# Author     : Khaled Ahmed: khaled.gnu@gmail.com
 # License    : GPL <http://www.gnu.org/licenses/gpl.html>
 #############################################################################
 
