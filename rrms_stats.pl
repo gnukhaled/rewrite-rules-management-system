@@ -21,7 +21,7 @@ our $rrms_logsdir    = $absolute_path."logs/";
 our $baseDir =".";
 our $logFile = $rrms_logsdir."rules.log";
 our $localemail      = getlogin()."\@".hostname;
-our %mail_addresses  = qw(Khaled khaled.ahmed@emc.com);
+our %mail_addresses  = qw(Khaled khaled.gnu@gmail.com);
 our $opt_startdate;
 our $opt_enddate;
 our $opt_date;
