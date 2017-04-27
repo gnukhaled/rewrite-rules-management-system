@@ -1584,7 +1584,7 @@ sub htmlfooter{
 sub Usage{
 
 print "           Version $VERSION\n";
-print "           By Khaled Ahmed (SDG Team)\n";
+print "           By Khaled Ahmed\n";
 print "           Copyright (C) 2012-2013\n\n";
 print "Options: \n";
 print "                              username password /from /to [vanity|redirect] domain(s)\n";
@@ -1592,7 +1592,7 @@ print "         [--delete|-d]        username password /rule domain(s)\n";
 print "         [--notify]           Send a notification with the performed action(s) to the management (Default = ON)\n";
 print "         [--silent]           Don't send email notification\n";
 print "         [--deploy]           Deploy the SVN repository to the UW web servers\n";
-print "         [--reload]           Reload the UW Apache farm (Can't be used with [--deploy])\n";
+print "         [--reload]           Reload the Apache farm (Can't be used with [--deploy])\n";
 print "         [--restore]          Restore the Apache conf to an SVN revision (takes rev # as argument)\n";
 print "         [--recover]          Recover the Apache conf to a previous state from server backup files by date (fmt dd-mm-yyyy)\n";
 print "         [--env]              Sets the working environment (Environments are defined in the environments.conf file)\n";
