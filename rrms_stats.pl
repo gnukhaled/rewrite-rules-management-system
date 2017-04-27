@@ -1259,7 +1259,7 @@ close MAIL;
 sub Usage{
    
     print "           Version $VERSION\n";
-    print "           By Khaled Ahmed (SDG Team)\n";
+    print "           By Khaled Ahmed\n";
     print "           Copyright (C) 2012-2013\n\n";
     print "Options:\n";
     print "         [--start-date] and [--end-date]  List entries between start & end dates (fmt dd-mm-yyyy)\n";
