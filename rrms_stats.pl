@@ -1257,14 +1257,7 @@ $EmailMessage
 close MAIL;    
 }
 sub Usage{
-    
-    print " ____        _             ____  _        _                \n";
-    print "|  _ \\ _   _| | ___  ___  / ___|| |_ __ _| |_ ___         \n";
-    print "| |_) | | | | |/ _ \\/ __| \\___ \\| __/ _` | __/ __|      \n";
-    print "|  _ <| |_| | |  __/\\__ \\  ___) | || (_| | |_\__ \\      \n";
-    print "|_| \\_\\\\__,_|_|\\___||___/ |____/ \\__\\__,_|\\__|___/  \n";
-    print "                                                           \n";
-    print "                                                           \n";
+   
     print "           Version $VERSION\n";
     print "           By Khaled Ahmed (SDG Team)\n";
     print "           Copyright (C) 2012-2013\n\n";
