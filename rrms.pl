@@ -33,7 +33,7 @@ our $svnuser         = "*FAKEUSER*";
 our $svnpass         = "*FAKEPASS*";
 our $localemail      = "*FAKEEMAIL*";
 #our $localemail      = getlogin()."\@".hostname;
-our %mail_addresses  = qw(Khaled khaled.ahmed@emc.com);
+our %mail_addresses  = qw(Khaled khaled.gnu@gmail.com);
 our %logtype         = qw(insert 0 update 1 delete 2 security 3 validation 4);
 our @EmailMessage;
 our @ValidationEmailMessage;
